@@ -2,7 +2,7 @@
 
 return array( 
 		'sso_location' => '../../SimpleSAMLphp/lib/_autoload.php',
-		'post_host' => 'https://chat.segwaydiscovery.com/chatclosehandler.php',
+		'post_host' => 'https://stage-ap-chat.segwaydiscovery.com/chatclosehandler.php',
         'attr_map' => array(   
             'email'     => 'http://schemas.xmlsoap.org/ws/2005/05/identity/claims/upn',
             'username'  => 'http://schemas.xmlsoap.org/ws/2005/05/identity/claims/upn',
